@@ -1,3 +1,6 @@
 [submodule "Homework"]
 	path = Homework
 	url = http://210.45.114.30/PB17121687/homework.git
+[submodule "compiler_cminus"]
+	path = compiler_cminus
+	url = http://210.45.114.30/PB17121687/compiler_cminus.git
